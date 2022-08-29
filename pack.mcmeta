@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 5,
+        "pack_format": 10,
         "description": "Give the player Dolphin's Grace when a Heart of the Sea is held in the off hand"
     }
 }
